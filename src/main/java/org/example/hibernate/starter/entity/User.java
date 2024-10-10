@@ -5,6 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+import java.math.BigInteger;
 import java.time.LocalDate;
 
 @Data
@@ -16,11 +17,11 @@ import java.time.LocalDate;
 public class User
 {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Integer id;
+
     private String username;
-    private String firstname;
-    private String lastname;
-    @Column(name = "birth_date")
-    private LocalDate birthDate;
+    private PersonalInfo personalInfo;
     private Integer age;
     @Enumerated(EnumType.STRING)
     private Role role;

@@ -1,0 +1,57 @@
+2024-10-10 11:44:17 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.14.Final
+2024-10-10 11:44:17 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-10-10 11:44:17 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-10 11:44:17 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 11:44:17 INFO  pooling:128 - HHH10001001: Connection properties: {user=root, password=****}
+2024-10-10 11:44:17 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2024-10-10 11:44:17 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-10-10 11:44:18 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-10 11:44:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-10-10 11:44:19 INFO  HibernateRunner:40 - user: has been updated User(username=masha2000@gmail.com, firstname=Masha, lastname=Дуброва2, birthDate=2004-04-19, age=20, role=USER)
+2024-10-10 11:44:19 INFO  pooling:550 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 11:49:08 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.14.Final
+2024-10-10 11:49:09 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-10-10 11:49:09 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-10 11:49:09 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 11:49:09 INFO  pooling:128 - HHH10001001: Connection properties: {user=root, password=****}
+2024-10-10 11:49:09 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2024-10-10 11:49:09 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-10-10 11:49:09 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-10 11:49:10 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-10-10 11:49:10 INFO  HibernateRunner:42 - user: has been updated User(username=masha2000@gmail.com, firstname=Masha, lastname=Дуброва2, birthDate=2004-04-19, age=20, role=USER)
+2024-10-10 11:49:10 INFO  pooling:550 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 12:56:24 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.14.Final
+2024-10-10 12:56:25 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-10-10 12:56:25 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-10 12:56:25 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 12:56:25 INFO  pooling:128 - HHH10001001: Connection properties: {user=root, password=****}
+2024-10-10 12:56:25 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2024-10-10 12:56:25 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-10-10 12:56:25 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-10 12:56:26 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-10-10 12:56:26 INFO  HibernateRunner:40 - user1 is transient state
+2024-10-10 12:56:26 INFO  pooling:550 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 13:14:13 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.14.Final
+2024-10-10 13:14:13 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-10-10 13:14:13 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-10 13:14:13 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 13:14:13 INFO  pooling:128 - HHH10001001: Connection properties: {user=root, password=****}
+2024-10-10 13:14:13 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2024-10-10 13:14:13 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-10-10 13:14:14 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-10 13:14:15 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-10-10 13:14:15 INFO  HibernateRunner:40 - user1 is transient state
+2024-10-10 13:14:15 WARN  SqlExceptionHelper:137 - SQL Error: 1054, SQLState: 42S22
+2024-10-10 13:14:15 ERROR SqlExceptionHelper:142 - Unknown column 'age' in 'field list'
+2024-10-10 13:14:15 INFO  pooling:550 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 13:18:30 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.14.Final
+2024-10-10 13:18:31 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-10-10 13:18:31 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-10 13:18:31 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/test_hibernate]
+2024-10-10 13:18:31 INFO  pooling:128 - HHH10001001: Connection properties: {user=root, password=****}
+2024-10-10 13:18:31 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2024-10-10 13:18:31 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-10-10 13:18:31 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-10 13:18:32 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-10-10 13:18:32 INFO  HibernateRunner:40 - user1 is transient state
+2024-10-10 13:18:32 INFO  pooling:550 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/test_hibernate]
